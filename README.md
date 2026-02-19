@@ -14,14 +14,14 @@ My homelab is my primary learning environment. It runs production-grade services
 - Omada SDN managing a PoE switch and two wireless APs
 - Pi-hole for network-wide DNS filtering
 
-**Proxmox Node (Lenovo ThinkCentre)**
+**Proxmox Node**
 - Dedicated to stable, set-and-forget services
 - VM: Home Assistant OS for home automation
 - LXC: Caddy reverse proxy with SSL termination
 - LXC: Omada SDN controller
 - LXC: Uptime Kuma for service monitoring
 
-**Debian Server (Lenovo ThinkCentre — headless, primary workhorse)**
+**Headless Debian Server**
 - Docker services: Frigate NVR (with Coral TPU for local ML inference), Jellyfin media server
 - 5-camera surveillance system with local AI object detection — no cloud required
 - Self-hosted file storage via SMB; exploring offline sync solutions (Syncthing/Nextcloud)
