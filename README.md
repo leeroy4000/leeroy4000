@@ -21,7 +21,7 @@ My homelab is my primary learning environment. It runs production-grade services
 - LXC: Omada SDN controller
 - LXC: Uptime Kuma for service monitoring
 
-**Headless Debian Server**
+**Debian Server (headless, primary workhorse)**
 - Docker services: Frigate NVR (with Coral TPU for local ML inference), Jellyfin media server
 - 5-camera surveillance system with local AI object detection — no cloud required
 - Self-hosted file storage via SMB; exploring offline sync solutions (Syncthing/Nextcloud)
@@ -52,8 +52,9 @@ My homelab is my primary learning environment. It runs production-grade services
 ## 📁 Featured Projects
 
 - [**proxmox-ssl-setup**](https://github.com/leeroy4000/proxmox-ssl-setup) — SSL certificate automation for Proxmox using Caddy and DDNS
-- [**patch_proxmox_nosub**](https://github.com/leeroy4000/patch-proxmox-nosub) — Removes the Proxmox subscription nag for homelab use
-- [**Coral_TPU_Install**](https://github.com/leeroy4000/Coral-TPU-Install) — Setup guide for Google Coral TPU with Frigate NVR on Debian
+- [**patch_proxmox_nosub**](https://github.com/leeroy4000/patch_proxmox_nosub) — Removes the Proxmox subscription nag for homelab use
+- [**Coral_TPU_Install**](https://github.com/leeroy4000/Coral_TPU_Install) — Setup guide for Google Coral TPU with Frigate NVR on Debian
+- [**usb_mount_and_share**](https://github.com/leeroy4000/usb_mount_and_share) — Bash script for mounting a USB HDD and sharing it via Samba
 
 ---
 
