@@ -54,7 +54,7 @@ My homelab is my primary learning environment. It runs production-grade services
 - [**proxmox-ssl-setup**](https://github.com/leeroy4000/proxmox-ssl-setup) — Automated SSL certificate management for Proxmox VE using Let's Encrypt and Cloudflare.
 - [**patch_proxmox_nosub**](https://github.com/leeroy4000/patch_proxmox_nosub) — Removes the Proxmox subscription nag for homelab use
 - [**Coral_TPU_Install**](https://github.com/leeroy4000/Coral_TPU_Install) — Setup guide for Google Coral TPU with Frigate NVR on Debian
-- [**usb_mount_and_share**](https://github.com/leeroy4000/usb_mount_and_share) — Bash script for mounting a USB HDD and sharing it via Samba
+- [**usb_mount_and_share**](https://github.com/leeroy4000/usb_mount_and_share) — Bash script for mounting a USB HDD or block device and sharing it via Samba
 
 ---
 
