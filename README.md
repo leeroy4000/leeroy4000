@@ -24,6 +24,7 @@ My homelab is my primary learning environment. It runs production-grade services
 **Debian Server (Lenovo ThinkCentre — headless, primary workhorse)**
 - Docker services: Frigate NVR (with Coral TPU for local ML inference), Jellyfin media server
 - 5-camera surveillance system with local AI object detection — no cloud required
+- Self-hosted file storage via SMB; exploring offline sync solutions (Syncthing/Nextcloud)
 
 **Coming Soon**
 - k3s Kubernetes cluster on the Debian server
