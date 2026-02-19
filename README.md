@@ -52,8 +52,8 @@ My homelab is my primary learning environment. It runs production-grade services
 ## 📁 Featured Projects
 
 - [**proxmox-ssl-setup**](https://github.com/leeroy4000/proxmox-ssl-setup) — SSL certificate automation for Proxmox using Caddy and DDNS
-- [**patch_proxmox_nosub**](https://github.com/leeroy4000/patch_proxmox_nosub) — Removes the Proxmox subscription nag for homelab use
-- [**Coral_TPU_Install**](https://github.com/leeroy4000/Coral_TPU_Install) — Setup guide for Google Coral TPU with Frigate NVR on Debian
+- [**patch_proxmox_nosub**](https://github.com/leeroy4000/patch-proxmox-nosub) — Removes the Proxmox subscription nag for homelab use
+- [**Coral_TPU_Install**](https://github.com/leeroy4000/Coral-TPU-Install) — Setup guide for Google Coral TPU with Frigate NVR on Debian
 
 ---
 
