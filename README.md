@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-I'm a systems technician transitioning into DevOps, with a background in data center operations and hands-on biomedical equipment maintenance. My day job involves device-level troubleshooting and documentation across complex medical systems — my nights and weekends go toward building the homelab below. I like building things that are reliable, automated, and well-documented — and then breaking them to see what happens.
+I'm a systems technician learning DevOps, with a background in data center operations and hands-on biomedical equipment maintenance. My day job involves device-level troubleshooting and documentation across complex medical systems — my nights and weekends are spent experimenting in my homelab. I like building things that are reliable, automated, and well-documented — and then breaking them to see what happens.
 
 ---
 
