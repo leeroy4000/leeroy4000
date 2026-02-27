@@ -60,7 +60,7 @@ My homelab is my primary learning environment. It runs production-grade services
 
 ## 🎯 What I'm Working Toward
 
-Pursuing a remote DevOps/Infrastructure role where I can bring real-world systems experience to a team that values reliability and automation. When I'm not breaking things in the lab, I'm probably hosting a Valheim server for friends.
+Pursuing a remote DevOps/Infrastructure role where I can bring real-world systems experience to a team that values reliability and automation. When I'm not developing in the lab, I'm probably hosting a Valheim server for friends.
 
 ---
 
